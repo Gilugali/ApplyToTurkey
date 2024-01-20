@@ -1,0 +1,14 @@
+{
+  "name": "applyapp",
+  "version": "1.0.0",
+  "description": "a web app to help students to apply",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gilugali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
